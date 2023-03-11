@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chameleon</string>
+    <string name="action_settings">设置</string>
+
+    <string name="action_process">开始</string>
+    <string name="action_choose_image">选择图片</string>
+    <string name="message_tap_to_choose_image">拖入图片</string>
+    <string name="error_no_image_selected">未选中图片</string>
+    <string name="title_permission">Permission</string>
+    <string name="message_permission">要保存处理后的图像，请允许访问手机存储。</string>
+    <string name="action_ok">OK</string>
+    <string name="error_permission">没有存储权限无法处理图像，请前往设置修改权限。</string>
+    <string name="title_error">错误!</string>
+    <string name="status_uploading">图片加载中…</string>
+    <string name="status_processing">处理中…</string>
+    <string name="error_output_not_saved">保存失败</string>
+</resources>

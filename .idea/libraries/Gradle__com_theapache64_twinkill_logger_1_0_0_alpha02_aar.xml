@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theapache64.twinkill:logger:1.0.0-alpha02@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37cc868565d5bbec19e8ee99c1296ef1/jetified-logger-1.0.0-alpha02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37cc868565d5bbec19e8ee99c1296ef1/jetified-logger-1.0.0-alpha02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37cc868565d5bbec19e8ee99c1296ef1/jetified-logger-1.0.0-alpha02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theapache64.twinkill/logger/1.0.0-alpha02/64bce7b8ab9472fefac58946db332bd94018f8f/logger-1.0.0-alpha02-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theapache64.twinkill/logger/1.0.0-alpha02/31ecfb4fdab5e5a7cc426f238830aa0e5c00fc8d/logger-1.0.0-alpha02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
